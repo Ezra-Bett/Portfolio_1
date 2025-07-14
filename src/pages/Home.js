@@ -1,6 +1,6 @@
 import React from 'react';
 import '../App.css'; // or './App.css' depending on file structure
-import { FaReact, FaPython, FaLinkedin, FaGithub } from "react-icons/fa";
+import { FaLinkedin, FaGithub } from "react-icons/fa";
 
 function Home() {
     return (
